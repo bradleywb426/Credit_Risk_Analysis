@@ -80,4 +80,4 @@ In this challenge, we used different techniques to train and evaluate models to 
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+The Oversampling methods had a balanced accuracy of around 66%, while the Undersampling method had a balanced accuracy of around 54%. The combinatory sampling method had a higher balanced accuracy of about 69%. Of the ensemble methods, the Balanced Random Forest had a balanced accuracy of about 79% and the Easy Ensemble AdaBoost had a balanced accuracy of about 93%. Following these results, the Easy Ensemble AdaBoost would be recommened due to its high accuracy with data.
