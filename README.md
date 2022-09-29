@@ -14,7 +14,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~71% in assessments for high risk loans, ~60% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample1.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample1.png" width="600">
+
+-----
 
 - SMOTE Oversampling
 
@@ -24,7 +26,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~63% in assessments for high risk loans, and ~69% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample2.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample2.png" width="600">
+
+-----
 
 - Cluster Centroids Undersampling
 
@@ -34,7 +38,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~69% in assessments for high risk loans, and ~40% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample3.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample3.png" width="600">
+
+-----
 
 - SMOTEENN Sampling
 
@@ -44,7 +50,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~80% in assessments for high risk loans, and ~57% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample5.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/sample4.png" width="600">
+
+-----
 
 - Balanced Random Forest Classifier
 
@@ -54,7 +62,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~67% in assessments for high risk loans, and ~91% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/ensemble1.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/ensemble1.png" width="600">
+
+-----
 
 - Easy Ensemble AdaBoost Classifier
 
@@ -64,7 +74,9 @@ In this challenge, we used different techniques to train and evaluate models to 
   
   - Recall Score: ~91% in assessments for high risk loans, and ~94% in assessments for low risk loans
   
-<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/ensemble2.png">
+<img src="https://github.com/bradleywb426/Credit_Risk_Analysis/blob/main/Images/ensemble2.png" width="600">
+
+-----
 
 ## Summary
 
